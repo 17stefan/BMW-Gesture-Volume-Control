@@ -13,12 +13,6 @@
 -  Robust error handling and graceful degradation
 
 ---
-## How it Works
-<div align="center">
-  <video src="gesture control.mp4" width="100%" autoplay loop muted playsinline>
-  </video>
-</div>
----
 
 ## Technical Architecture
 
@@ -352,4 +346,5 @@ For issues, questions, or contributions:
 
 **Last Updated**: February 2026  
 **Status**: Production Ready ✅
+
 
