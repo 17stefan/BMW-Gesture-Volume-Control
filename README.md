@@ -15,11 +15,9 @@
 ---
 ## How it Works
 <div align="center">
-  <h2>📺 Project Demo</h2>
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="gesture control.mp4?raw=true" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+
+  <img src="control_volume.gif" width="100%" alt="Gesture Control Demo">
+  
 </div>
 
 ## Technical Architecture
@@ -354,6 +352,7 @@ For issues, questions, or contributions:
 
 **Last Updated**: February 2026  
 **Status**: Production Ready ✅
+
 
 
 
