@@ -4,17 +4,20 @@
 
 **Hand Gesture Volume Control** is a real-time application that enables intuitive control of Windows system volume through hand gesture recognition. The system uses computer vision to detect hand landmarks via a webcam and interprets rotational gestures of the index finger to dynamically adjust system audio levels.
 
-### Problem Statement
-Traditional volume control methods (buttons, sliders, physical dials) require dedicated hardware or UI interaction. This application provides a gesture-based alternative inspired by BMW vehicle control systems, enabling touchless, intuitive volume management through simple hand rotations.
-
 ### Key Features
-- ✅ Real-time hand landmark detection using MediaPipe
-- ✅ Rotation-based gesture recognition (clockwise = increase, counter-clockwise = decrease)
-- ✅ Direct Windows Audio API integration for system-level volume control
-- ✅ Interactive visual feedback with on-screen volume bar and rotation indicators
-- ✅ Optimized sensitivity settings for smooth, controllable input
-- ✅ Robust error handling and graceful degradation
+-  Real-time hand landmark detection using MediaPipe
+-  Rotation-based gesture recognition (clockwise = increase, counter-clockwise = decrease)
+-  Direct Windows Audio API integration for system-level volume control
+-  Interactive visual feedback with on-screen volume bar and rotation indicators
+-  Optimized sensitivity settings for smooth, controllable input
+-  Robust error handling and graceful degradation
 
+---
+## How it Works
+<div align="center">
+  <video src="gesture control.mp4" width="100%" autoplay loop muted playsinline>
+  </video>
+</div>
 ---
 
 ## Technical Architecture
@@ -349,3 +352,4 @@ For issues, questions, or contributions:
 
 **Last Updated**: February 2026  
 **Status**: Production Ready ✅
+
