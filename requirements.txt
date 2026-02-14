@@ -1,0 +1,8 @@
+# Project dependencies for Hand Gesture Volume Control
+
+opencv-python==4.13.0.92
+mediapipe==0.10.5
+numpy==2.4.2
+pycaw==20251023
+comtypes==1.4.15
+psutil==7.2.2
