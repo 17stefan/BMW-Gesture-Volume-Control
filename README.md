@@ -1,9 +1,3 @@
-<div align="center">
-  <h2>📺 Demo Video</h2>
-  <video src="gesture control.mp4" width="100%" autoplay loop muted playsinline>
-  </video>
-  <p><i>Controlând volumul sistemului prin gesturi (BMW Gesture Control Replica)</i></p>
-</div>
 # Hand Gesture Volume Control System
 
 ## Project Overview
@@ -19,6 +13,13 @@
 -  Robust error handling and graceful degradation
 
 ---
+## How it Works
+<div align="center">
+  <h2> Demo Video</h2>
+  <video src="gesture control.mp4" width="100%" autoplay loop muted playsinline>
+  </video>
+  <p><i>Controlând volumul sistemului prin gesturi (BMW Gesture Control Replica)</i></p>
+</div>
 
 ## Technical Architecture
 
@@ -352,6 +353,7 @@ For issues, questions, or contributions:
 
 **Last Updated**: February 2026  
 **Status**: Production Ready ✅
+
 
 
 
